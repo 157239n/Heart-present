@@ -94,7 +94,7 @@ A strongback that supports the straight part only and leaves the front and back 
 
 A strongback that supports the straight part and have 4 circle fourths covering the front and back parts. This makes the heart into a box. However, this require supports which won't give nice results in a 3d printer so I use the 3rd schema instead. Involves the following files:
 
-- [model 4 strongback with cover](https://github.com/157239n/Heart-present/blob/master/model%204%20strongback%20with%20cover.scdoc)
+- [model 4 strongback with cover](https://github.com/157239n/Heart-present/blob/master/model%204%20strongback%20with%20cover.scdoc) (SpaceClaim file)
 
 ### Schema 3
 
@@ -104,6 +104,26 @@ A strongback that supports the straight part and have 4 circle fourths covering 
 - Knotched front cover: [model 4 strongback knotch lid](https://github.com/157239n/Heart-present/blob/master/model%204%20strongback%20knotch%20lid.stl) (stl file)
 - Knotched back cover: [model 4 strongback knotch container](https://github.com/157239n/Heart-present/blob/master/model%204%20strongback%20knotch%20container.stl) (stl file)
 
-It's intended to first assemble left and right core sides first and then put together the front and back cover later with rubber bands or cloth or a wire of some kind
+It's intended to first assemble left and right core sides first and then put together the front and back cover later with rubber bands or cloth or a wire of some kind.
 
-[file]: https://i.imgur.com/rwJJzlU.png
+## Final product
+
+The main body:
+
+![](https://i.imgur.com/MwqAJY9.jpg)
+
+The lid:
+
+![](https://i.imgur.com/QYkAOqX.jpg)
+
+Direct view with strongback:
+
+![](https://i.imgur.com/rRUXevy.jpg)
+
+Angled view with strongback:
+
+![](https://i.imgur.com/UrjFdpm.jpg)
+
+Paper message inside:
+
+![](https://i.imgur.com/suyvtVl.jpg)
